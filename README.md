@@ -1,2 +1,2 @@
-# Pro-21
-Project 21_Bullet Game
+# p5.play-boilerplate
+Boiler plate for p5.play
